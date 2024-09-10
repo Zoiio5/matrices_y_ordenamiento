@@ -19,6 +19,5 @@ El proyecto depende de varias bibliotecas de Python. Para asegurarte de que todo
 2. Instalar las dependencias desde requqeriments.txt:
    ```bash
    pip freeze > requirements.txt
-3. 
-   
-4. 
+
+## Generador-de-datasets
