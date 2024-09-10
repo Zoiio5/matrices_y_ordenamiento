@@ -13,10 +13,17 @@ Este proyecto implementa y compara diferentes algoritmos de **ordenamiento** y *
 ### Requerimientos
 El proyecto depende de varias bibliotecas de Python. Para asegurarte de que todo funcione correctamente, instala las dependencias utilizando el archivo `requirements.txt`.
 
+
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Zoiio5/matrices_y_ordenamiento.git
-2. Instalar las dependencias desde requqeriments.txt:
+
+2. Crear un entorno virtual:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+
+3. Instalar las dependencias desde requeriments.txt:
    ```bash
    pip freeze > requirements.txt
 
