@@ -16,4 +16,9 @@ El proyecto depende de varias bibliotecas de Python. Para asegurarte de que todo
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Zoiio5/matrices_y_ordenamiento.git
-   cd algoritmos-ordenamiento-matrices
+2. Instalar las dependencias desde requqeriments.txt:
+   ```bash
+   pip freeze > requirements.txt
+3. 
+   
+4. 
