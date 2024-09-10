@@ -27,7 +27,7 @@ El proyecto depende de varias bibliotecas de Python. Para asegurarte de que todo
    ```bash
    pip freeze > requirements.txt
 
-# Generador de Datasets
+## Generador de Datasets
 
 El proyecto incluye un generador de datasets que permite crear matrices aleatorias o ordenadas para realizar las pruebas de rendimiento de los algoritmos de multiplicación de matrices. Los datasets generados son matrices almacenadas en formato binario (.bin).
 
